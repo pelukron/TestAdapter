@@ -11,6 +11,8 @@ public class User implements Parcelable {
     private String edad;
     private String estatura;
 
+    //a
+
     public String getNombre() {
         return nombre;
     }
