@@ -10,7 +10,7 @@ public class User implements Parcelable {
     private String nombre;
     private String edad;
     private String estatura;
-
+//
     public String getNombre() {
         return nombre;
     }
